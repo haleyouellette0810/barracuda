@@ -9,3 +9,5 @@ Barracuda Fitness Company Website.
 - Color Theme for Barracuda.
 - Branding and Writing.
 - Embedding special content.
+- Google Analytics Support.
+- Email Newsletter Signup.
