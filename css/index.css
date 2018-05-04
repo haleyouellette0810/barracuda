@@ -1,0 +1,25 @@
+/* 
+So when we import external fonts for our site we use the method below 
+In the example below im going to set the default paragraph tag to Roboto Font.
+
+First: 
+We go to https://fonts.google.com/ then we browse through the huge selection of fonts
+we will finally select Robot like I said prior.
+
+Second:
+We add it to our selection and import it into our css.
+
+Third: we add it to a element and use it.
+
+*/
+
+
+/* In this line we are Importing Roboto */
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+/* In this line we are gonna pick out our paragraph element to style  */
+p {
+    /* In this line we set our font family to roboto.
+    Do not worry google fonts shows you. */
+    font-family: 'Roboto', sans-serif;
+}
